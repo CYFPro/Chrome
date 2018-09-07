@@ -10,6 +10,7 @@ echo "油哥不会php啊,这个很棘手.";
 echo "努力一下吧，反正全用html也不是问题。";
 ?>
 </p>这个界面呢，主要放一些无关紧要，不会被Q的东西。</P>
+<a href=https://cyfblog.herokuapp.com/Attention.php> 注意注意!</P>
 </p>最后更新:2018-09-07</p>
 </P>Copyright 2018    Pig's oil.lnc, </P>
 </body>
