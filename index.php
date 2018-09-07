@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html>
 <body>
-<title>油哥新博客!<title>
+<title>油哥新博客!</title>
+  
 <h1>油哥的第一个PHP界面,丑不丑?</h1>
 
 <?php
