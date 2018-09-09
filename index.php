@@ -1,11 +1,11 @@
 ﻿<!DOCTYPE html>
 <?php
-echo "Test"
+echo ""
 ?>
 <html lang="zh-CN">
 <head>
 <meta charset="utf-8" http-equiv="Content-Type" content="text/html" />
-<title>​猪油博客 | 猪油新博客</title>
+<title>​猪油博客 | 猪油新博客 | 网页维护中</title>
 <body background="https://github.com/CYFPro/picturebed/raw/master/oil.png" ;background-repeat: no-repeat;>		
 <p align="center"><img src="https://github.com/CYFPro/picturebed/raw/master/logo.png" width="400" height="200" alt="​pig's oil" ></p>
 
