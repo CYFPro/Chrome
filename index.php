@@ -1,6 +1,6 @@
 ﻿<!DOCTYPE html>
 <?php
-echo ""
+echo "Test"
 ?>
 <html lang="zh-CN">
 <head>
