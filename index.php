@@ -7,7 +7,11 @@ echo ""
 <meta charset="utf-8" http-equiv="Content-Type" content="text/html" />
 <title>​猪油博客 | 猪油新博客 | 网页维护中</title>
 <body background="https://github.com/CYFPro/picturebed/raw/master/oil.png" ;background-repeat: no-repeat;>		
-<p align="center"><img src="https://github.com/CYFPro/picturebed/raw/master/logo.png" width="400" height="200" alt="​pig's oil" ></p>
+<script src="//cdn.bootcss.com/clipboard.js/1.5.13/clipboard.min.js"></script>
+<script src="//cdn.bootcss.com/autosize.js/3.0.17/autosize.min.js"></script>
+<script src="//cdn.bootcss.com/jquery/2.1.4/jquery.min.js"></script>
+
+	<p align="center"><img src="https://github.com/CYFPro/picturebed/raw/master/logo.png" width="400" height="200" alt="​pig's oil" ></p>
 
 			</a></h1>
 <h1 align="center">猪油 | cyfblog.herokuapp.com</h1>
