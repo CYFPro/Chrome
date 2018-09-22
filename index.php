@@ -33,11 +33,9 @@ echo ""
 		<div class="m-infoarea clearfix">
 			<a class="time" href="">2018年8月12日</a>
 												<a href="" class="comment" >8</a>			<span class="sep">/</span>
-			<div class="from"><span class="reblog"><a href="" rel="category tag">科学上网</a></span></div>
+			<div class="from"></div>
 			<span class="sep">/</span>
-			<div class="tagarea clearfix">
-				<span class="taglb">标签:&nbsp;</span>
-				科学上网			</div>
+			
 		</div>
 	</div>										<div class="post-wrap" >
 		<div class="m-post">
