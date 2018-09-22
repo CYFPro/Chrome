@@ -13,7 +13,7 @@
 <meta http-equiv="Cache-Control" content="no-siteapp">
 <meta name="Keywords" content="pig's oil" />
 <meta name="description" content="pig's oil" />
-<link rel="stylesheet" href="https://raw.githubusercontent.com/CYFPro/Chrome/master/CSSJS/style.css" media="screen" />
+<link rel="stylesheet" href="https://dream.ren/wp-content/themes/presence/style.css" media="screen" />
 <style type="text/css" id="custom-background-css">
 body.custom-background { background-color: #d3d3d3; background-image: url("https://github.com/CYFPro/picturebed/raw/master/oil.png"); background-position: left top; background-size: auto; background-repeat: repeat; background-attachment: fixed; }
 </style>
