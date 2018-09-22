@@ -7,10 +7,8 @@ textarea.textarea{width:100%;min-height:20px;max-height:300px;outline:0px none;b
 .phzoom,.aligncenter{background-color:#FFF !important;margin-bottom:10px;box-shadow:8px 8px 5px #888888 !important;line-height:0px !important;}
 .phzoom:hover{padding:0px 0px !important;}
 .link-content a,.link-content a:hover{color:#000 !important;background-color:#FFF !important;}
-/*强制图片不变形适配*/
 div{word-wrap:break-word;word-break:normal;}
 img{max-width:600px;height:auto;width:expression(this.width>600 ? "600px":this.width);}
-/*标签页面*/
 #tag a{text-decoration:none;}
 #tag_letter{font-size:30px;line-height:62px;background:#f1f1f1;padding:5px 2px;}
 #all_tags .tag_name{margin-top:15px;padding-left:10px;border-bottom:1px solid #efefef;}
