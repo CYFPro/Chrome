@@ -57,4 +57,5 @@ body.custom-background { background-color: #d3d3d3; background-image: url("https
 			<div class="content">
 	</div>
 <P>CopyRight 2018 Pig's oil.lnc, </P>
-</head>			
+<a href="https://gcyf.herokuapp.com">最新的Google镜像</A>
+			</head>			
