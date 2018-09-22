@@ -46,7 +46,7 @@ body.custom-background { background-color: #d3d3d3; background-image: url("https
 <p>对，就是那个被GFW严格监控的免费空间</p>
 <p>所以很容易被Q啊！</p>
 <p>访问博客时一定一定要用https开头！</p>
-<p>看看你的浏览器开头，如果没有挂把锁，请</p><a href="https://">点我</a>
+<p>看看你的浏览器开头，如果没有挂把锁，请</p><a href="https:///">点我</a>
 <p>要么我推荐挂代理,比如Tor</p>
 <p>尽量减少国内直接访问博客的流量</p>
 <p>T.E.D</p>			</div>
