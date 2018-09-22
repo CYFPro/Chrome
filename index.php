@@ -17,8 +17,7 @@ echo ""
 <meta name="description" content="pig's oil" />
 <link rel="stylesheet" href="https://dream.ren/wp-content/themes/presence/style.css" media="screen" />
 <style type="text/css" id="custom-background-css">
-body.custom-background { background-color: #d3d3d3; background-image: url("https://github.com/CYFPro/picturebed/raw/master/oil
-.png"); background-position: left top; background-size: auto; background-repeat: repeat; background-attachment: fixed; }
+body.custom-background { background-color: #d3d3d3; background-image: url("https://github.com/CYFPro/picturebed/raw/master/oil.png"); background-position: left top; background-size: auto; background-repeat: repeat; background-attachment: fixed; }
 </style>
 <style type="text/css" id="syntaxhighlighteranchor"></style>
 <style type="text/css">
@@ -28,7 +27,7 @@ body.custom-background { background-color: #d3d3d3; background-image: url("https
 <body class="home blog custom-background">
 <div id="loadingbar"></div>
 	<div class="header w-size">
-	<p align="center"><img src="https://github.com/CYFPro/picturebed/raw/master/logo.png" width="400" height="200" alt="​pig's oil" ></p>
+	<p align="center"><img src="https://github.com/CYFPro/picturebed/raw/master/oil.png" width="400" height="200" alt="​pig's oil" ></p>
 
 			</a></h1>
 <h1 align="center">猪油 | cyfblog.herokuapp.com</h1>
