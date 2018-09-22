@@ -4,7 +4,7 @@
 <head>
 <link rel="shortcut icon" href="https://raw.githubusercontent.com/CYFPro/picturebed/master/favicon.ico">
 <meta charset="utf-8" http-equiv="Content-Type" content="text/html" />
-<title>​猪油博客 | 猪油新博客 | 网页维护中1</title>
+<title>​关于很多关于</title>
 <body background="https://github.com/CYFPro/picturebed/raw/master/oil.png" ;background-repeat: no-repeat;>		
 <script src="//cdn.bootcss.com/clipboard.js/1.5.13/clipboard.min.js"></script>
 <script src="//cdn.bootcss.com/autosize.js/3.0.17/autosize.min.js"></script>
@@ -13,7 +13,7 @@
 <meta http-equiv="Cache-Control" content="no-siteapp">
 <meta name="Keywords" content="pig's oil" />
 <meta name="description" content="pig's oil" />
-<link rel="stylesheet" href="https://raw.githubusercontent.com/CYFPro/Chrome/master/CSSJS/style.css" media="screen" />
+<link rel="stylesheet" href="https://dream.ren/wp-content/themes/presence/style.css" media="screen" />
 <style type="text/css" id="custom-background-css">
 body.custom-background { background-color: #d3d3d3; background-image: url("https://github.com/CYFPro/picturebed/raw/master/oil.png"); background-position: left top; background-size: auto; background-repeat: repeat; background-attachment: fixed; }
 </style>
@@ -38,9 +38,9 @@ body.custom-background { background-color: #d3d3d3; background-image: url("https
 		<div class="m-post">
 			
 
-<h2 class="title"><a href="/About" title="关于很多关于" rel="bookmark">关于很多关于</a></h2>
+<h2 class="title"><a href="/Blog/食用博客正确方式.php" title="注意注意!" rel="bookmark">注意注意!!</a></h2>
 				<div class="text">
-					<p style="text-align:center;"><a href="/About" class="phzoom" title="关于很多关于"><img src="https://github.com/CYFPro/picturebed/raw/master/PP.png" alt="关于很多关于" /></a></p><p>
+					<p style="text-align:center;"><a href="/Blog/食用博客正确方式.php" class="phzoom" title="食用博客正确方式"><img src="https://github.com/CYFPro/picturebed/raw/master/PP.png" alt="食用博客正确方式" /></a></p><p>
 关于上油博的注意事项[...]</p>				</div>
 							</div>
 		</div>
@@ -53,8 +53,31 @@ body.custom-background { background-color: #d3d3d3; background-image: url("https
 		</div>
 	</div>										<div class="post-wrap" >
 		<div class="m-post">
-			<a class="typeicon standard" href="/About"></a>
-			<div class="content">
-	</div>
+			<a class="typeicon standard" href="/"></a>
+			
+	
+</div>
+
+<div class="post-wrap" >
+</div>
+		<div class="m-post">
+
+<h2 class="title"><a href="/Blog/食用博客正确方式.php" title="注意注意!" rel="bookmark">注意注意!!</a></h2>
+				<div class="text">
+					<p style="text-align:center;"><a href="/Blog/食用博客正确方式.php" class="phzoom" title="食用博客正确方式"><img src="https://github.com/CYFPro/picturebed/raw/master/PP.png" alt="食用博客正确方式" /></a></p><p>
+关于上油博的注意事项[...]</p>				</div>
+							</div>
+		</div>
+		<div class="m-infoarea clearfix">
+			<a class="time" href="">2018年9月22日</a>
+				</div>								<a href="" class="comment" ></a>			<span class="sep"></span>
+			<div class="from"></div>
+			<span class="sep"></span>
+			
+		</div>
+	</div>										<div class="post-wrap" >
+		<div class="m-post">
+			<a class="typeicon standard" href="/"></a>
+</div>
 <P>CopyRight 2018 Pig's oil.lnc, </P>
 </head>			
