@@ -38,9 +38,9 @@ body.custom-background { background-color: #d3d3d3; background-image: url("https
 		<div class="m-post">
 			
 
-<h2 class="title"><a href="/Blog/食用博客正确方式.php" title="注意注意!" rel="bookmark">注意注意!!</a></h2>
+<h2 class="title"><a href="/Blog/How_To_Eat.php" title="注意注意!" rel="bookmark">注意注意!!</a></h2>
 				<div class="text">
-					<p style="text-align:center;"><a href="/Blog/食用博客正确方式.php" class="phzoom" title="食用博客正确方式"><img src="https://github.com/CYFPro/picturebed/raw/master/PP.png" alt="食用博客正确方式" /></a></p><p>
+					<p style="text-align:center;"><a href="/Blog/How_To_Eat.php" class="phzoom" title="食用博客正确方式"><img src="https://github.com/CYFPro/picturebed/raw/master/PP.png" alt="食用博客正确方式" /></a></p><p>
 关于上油博的注意事项[...]</p>				</div>
 							</div>
 		</div>
@@ -62,9 +62,9 @@ body.custom-background { background-color: #d3d3d3; background-image: url("https
 </div>
 		<div class="m-post">
 
-<h2 class="title"><a href="/Blog/食用博客正确方式.php" title="注意注意!" rel="bookmark">注意注意!!</a></h2>
+<h2 class="title"><a href="/Blog/How_To_Eat.php" title="注意注意!" rel="bookmark">注意注意!!</a></h2>
 				<div class="text">
-					<p style="text-align:center;"><a href="/Blog/食用博客正确方式.php" class="phzoom" title="食用博客正确方式"><img src="https://github.com/CYFPro/picturebed/raw/master/PP.png" alt="食用博客正确方式" /></a></p><p>
+					<p style="text-align:center;"><a href="/Blog/How_To_Eat.php" class="phzoom" title="食用博客正确方式"><img src="https://github.com/CYFPro/picturebed/raw/master/PP.png" alt="食用博客正确方式" /></a></p><p>
 关于上油博的注意事项[...]</p>				</div>
 							</div>
 		</div>
