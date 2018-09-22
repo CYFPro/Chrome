@@ -17,7 +17,8 @@ echo ""
 <meta name="description" content="pig's oil" />
 <link rel="stylesheet" href="https://dream.ren/wp-content/themes/presence/style.css" media="screen" />
 <style type="text/css" id="custom-background-css">
-body.custom-background { background-color: #d3d3d3; background-image: url("https://github.com/CYFPro/picturebed/raw/master/logo.png"); background-position: left top; background-size: auto; background-repeat: repeat; background-attachment: fixed; }
+body.custom-background { background-color: #d3d3d3; background-image: url("https://github.com/CYFPro/picturebed/raw/master/oil
+.png"); background-position: left top; background-size: auto; background-repeat: repeat; background-attachment: fixed; }
 </style>
 <style type="text/css" id="syntaxhighlighteranchor"></style>
 <style type="text/css">
