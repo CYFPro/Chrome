@@ -44,6 +44,5 @@ echo ""
 			<a class="typeicon standard" href="/Attention.php"></a>
 			<div class="content">
 	
-<h2>我是一条可爱的分界线——————————————————————————————————————————————————————</h2>
 <P>CopyRight 2018 Pig's oil.lnc, </P>
 </head>			
