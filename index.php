@@ -10,7 +10,23 @@ echo ""
 <script src="//cdn.bootcss.com/clipboard.js/1.5.13/clipboard.min.js"></script>
 <script src="//cdn.bootcss.com/autosize.js/3.0.17/autosize.min.js"></script>
 <script src="//cdn.bootcss.com/jquery/2.1.4/jquery.min.js"></script>
-
+<link rel="stylesheet" href="/music/src/skPlayer.min.css">
+<script type="text/javascript">jQuery("#loadbar").animate({width:"33%",backgroundColor: '#FF0004'});</script>
+<meta http-equiv="Cache-Control" content="no-siteapp">
+<meta name="Keywords" content="pig's oil" />
+<meta name="description" content="pig's oil" />
+<link rel="stylesheet" href="https://dream.ren/wp-content/themes/presence/style.css" media="screen" />
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #d3d3d3; background-image: url("https://github.com/CYFPro/picturebed/raw/master/logo.png"); background-position: left top; background-size: auto; background-repeat: repeat; background-attachment: fixed; }
+</style>
+<style type="text/css" id="syntaxhighlighteranchor"></style>
+<style type="text/css">
+.w-size { width:100%; }
+</style>
+</head>
+<body class="home blog custom-background">
+<div id="loadingbar"></div>
+	<div class="header w-size">
 	<p align="center"><img src="https://github.com/CYFPro/picturebed/raw/master/logo.png" width="400" height="200" alt="​pig's oil" ></p>
 
 			</a></h1>
