@@ -38,7 +38,7 @@ body.custom-background { background-color: #d3d3d3; background-image: url("https
 		<div class="m-post">
 			
 
-			<h2 class="title"><a href="https://cyffxdl.herokuapp.com" title="猪油反向代理" rel="bookmark">纯属自建！保证好用！</a></h2>
+			<h2 class="title"><a href="https://cyffxdl.herokuapp.com" title="猪油反向代理" rel="bookmark">猪油反向代理</a></h2>
 				<div class="text">
 					<p style="text-align:center;"><a href="https://cyffxdl.herokuapp.com" class="phzoom" title="纯属自建！保证好用！"><img src="https://github.com/CYFPro/picturebed/raw/master/PP.png" alt="关于很多关于" /></a></p><p>
 小型使用，不要张扬！具体搭建方法我会在以后好好讲的！点我进入代理站[...]</p>				</div>
