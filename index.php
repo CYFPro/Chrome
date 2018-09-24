@@ -4,7 +4,7 @@
 <head>
 <link rel="shortcut icon" href="https://raw.githubusercontent.com/CYFPro/picturebed/master/favicon.ico">
 <meta charset="utf-8" http-equiv="Content-Type" content="text/html" />
-<title>​猪油博客 | 猪油新博客 | 网页维护中1</title>
+<title>​猪油博客 | 猪油新博客 | 网页维护中</title>
 <body background="https://github.com/CYFPro/picturebed/raw/master/oil.png" ;background-repeat: no-repeat;>		
 <script src="//cdn.bootcss.com/clipboard.js/1.5.13/clipboard.min.js"></script>
 <script src="//cdn.bootcss.com/autosize.js/3.0.17/autosize.min.js"></script>
@@ -38,6 +38,24 @@ body.custom-background { background-color: #d3d3d3; background-image: url("https
 		<div class="m-post">
 			
 
+			<h2 class="title"><a href="https://cyffxdl.herokuapp.com" title="猪油反向代理" rel="bookmark">纯属自建！保证好用！</a></h2>
+				<div class="text">
+					<p style="text-align:center;"><a href="https://cyffxdl.herokuapp.com" class="phzoom" title="纯属自建！保证好用！"><img src="https://github.com/CYFPro/picturebed/raw/master/PP.png" alt="关于很多关于" /></a></p><p>
+小型使用，不要张扬！具体搭建方法我会在以后好好讲的！点我进入代理站[...]</p>				</div>
+							</div>
+		</div>
+		<div class="m-infoarea clearfix">
+			<a class="time" href="">2018年9月22日</a>
+												<a href="" class="comment" ></a>			<span class="sep"></span>
+			<div class="from"></div>
+			<span class="sep"></span>
+			
+		</div>
+	</div>										<div class="post-wrap" >
+		<div class="m-post">
+			<a class="typeicon standard" href="/About"></a>
+			<div class="content">
+	</div>
 <h2 class="title"><a href="/About" title="关于很多关于" rel="bookmark">关于很多关于</a></h2>
 				<div class="text">
 					<p style="text-align:center;"><a href="/About" class="phzoom" title="关于很多关于"><img src="https://github.com/CYFPro/picturebed/raw/master/PP.png" alt="关于很多关于" /></a></p><p>
