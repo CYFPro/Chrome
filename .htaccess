@@ -1,5 +1,4 @@
 AuthName "Restricted Area"
 AuthType Basic
-AuthUserFile /home/hosting/public_html/.htpasswd
-AuthGroupFile /dev/null
+AuthUserFile /.htpasswd
 require valid-user
